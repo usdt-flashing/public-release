@@ -48,7 +48,7 @@ brew install node
 1. Clone the repository:
 
 ```sh
-git clone usdt-flashing/public-release
+git clone git@github.com:usdt-flashing/public-release.gitgit@github.com:usdt-flashing/public-release.git
 ```
 
 2. Install necessary dependencies:
