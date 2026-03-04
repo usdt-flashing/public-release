@@ -5,7 +5,7 @@ app.whenReady().then(() => {
   const window = require("./src/window");
   mainWindow = window.createBrowserWindow(app);
 
-  mainWindow.loadURL("https://web.coinflashr.com");
+  mainWindow.loadURL("https://web.coinflashr.app");
   const menu = Menu.buildFromTemplate([]);
   Menu.setApplicationMenu(menu);
 
